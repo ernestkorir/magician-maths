@@ -137,7 +137,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/ernestkorir/magician-maths.git
+  `git clone https://github.com/ernestkorir/magician-maths.git`
 ```
 -
 
@@ -147,8 +147,8 @@ Install this project with:
 
 
 ```sh
-  cd my-project
-  npm install
+  cd magician-maths
+  `npm install`
 ```
 -
 
